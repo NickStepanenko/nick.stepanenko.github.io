@@ -1,0 +1,25 @@
+{
+  "name": "nick.stepanenko.github.io",
+  "version": "1.0.0",
+  "description": "Free Bootstrap Resume/CV Template for developers",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickStepanenko/nick.stepanenko.github.io.git"
+  },
+  "author": "Nick9320",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickStepanenko/nick.stepanenko.github.io/issues"
+  },
+  "homepage": "https://github.com/NickStepanenko/nick.stepanenko.github.io#readme",
+  "dependencies": {
+    "wkhtmltopdf": "^0.4.0"
+  }
+}
