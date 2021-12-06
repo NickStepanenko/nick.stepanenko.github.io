@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/NickStepanenko/nick.stepanenko.github.io#readme",
   "dependencies": {
+    "nodemon": "^2.0.15",
     "wkhtmltopdf": "^0.4.0"
   }
 }
