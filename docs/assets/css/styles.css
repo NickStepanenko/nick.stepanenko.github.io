@@ -45,7 +45,6 @@ p {
 .wrapper {
   background: #226194;
   max-width: 960px;
-  /* margin: 0 auto; */
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
