@@ -1,26 +1,36 @@
 {
   "name": "nick.stepanenko.github.io",
-  "version": "1.0.0",
-  "description": "Free Bootstrap Resume/CV Template for developers",
-  "main": "index.html",
-  "directories": {
-    "doc": "docs"
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^5.20.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NickStepanenko/nick.stepanenko.github.io.git"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
-  "author": "Nick9320",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NickStepanenko/nick.stepanenko.github.io/issues"
-  },
-  "homepage": "https://github.com/NickStepanenko/nick.stepanenko.github.io#readme",
-  "dependencies": {
-    "nodemon": "^2.0.15",
-    "wkhtmltopdf": "^0.4.0"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
