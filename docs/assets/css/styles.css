@@ -71,7 +71,7 @@ p {
 }
 .sidebar-wrapper .name {
   font-size: 32px;
-  font-weight: 900;
+  font-weight: 700;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -203,7 +203,7 @@ p {
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
 }
 .main-wrapper .time {
   position: absolute;
@@ -213,7 +213,7 @@ p {
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #97AAC3;
+  color: #768597;
 }
 .main-wrapper .project-title {
   font-size: 16px;
